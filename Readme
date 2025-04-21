@@ -1,0 +1,10 @@
+My goal is to practice machine learning. I have thought about many real world scenarios and decided to build a dynamic pricing module which can be integrated into a basic store management system.
+
+My plan is to create a store management system that automatically adjusts the selling price of products based on factors like demand, stock levels, seasonal trends, and customer behavior using machine learning.
+
+## 🔧 Key Features
+- Predictive pricing model
+- Historical sales tracking
+- Pricing decisions based on stock
+- Pricing based on Seasonal and temporal demands
+- Integration-ready for store platforms
