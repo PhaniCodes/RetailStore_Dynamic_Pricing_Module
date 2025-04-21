@@ -8,3 +8,27 @@ My plan is to create a store management system that automatically adjusts the se
 - Pricing decisions based on stock
 - Pricing based on Seasonal and temporal demands
 - Integration-ready for store platforms
+
+
+## 🔍 ML Focus
+- Regression models (Linear, Random Forest, XGBoost)
+- Time series forecasting (Prophet, ARIMA)
+- Reinforcement learning
+
+## 💾 Data Sources (Initial Plan)
+- Gather data from online sources (sales and inventory data)
+- Time features (date, season, holiday)
+- Customer segmentation & competitor pricing
+
+## 📂 Modules (Planned)
+- Data Simulator
+- ML Model Trainer
+- Dynamic Price Predictor
+- Store Inventory Manager (basic CRUD)
+- Dashboard
+
+## 📈 Milestones
+1. Simulate realistic store data
+2. Build regression-based price predictor
+3. Create a backend module to adjust prices
+4. Integrate into a basic store dashboard
