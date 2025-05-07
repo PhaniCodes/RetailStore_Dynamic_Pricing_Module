@@ -2,6 +2,8 @@ My goal in starting this project is to practice machine learning. I have thought
 
 My plan is to create a store management system that automatically adjusts the selling price of products based on factors like demand, stock levels, seasonal trends, and customer behavior using machine learning.
 
+Update(07-May) - I realised this has become more like a time series forecasting rather than a machine learning.
+
 ## 🔧 Key Features
 - Predictive pricing model
 - Historical sales tracking
